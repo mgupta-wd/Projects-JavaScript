@@ -57,3 +57,8 @@ body {
     color: white;
     font-size: 2.5rem;
 }
+
+.output input {
+    width: 380px;
+    height: 100px;
+}
